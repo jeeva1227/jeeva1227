@@ -44,8 +44,9 @@
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanandan-k)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
-
-
+## Projects
+- E-Banking fraud detection([Link-to-project](https://github.com/jeeva1227/ebanking-fraud-detection.git))
+- eshop360([Link-to-project](https://github.com/jeeva1227/eshop.web.git))
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva1227&show_icons=true&locale=en&layout=compact" alt="jeeva1227" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeeva1227&show_icons=true&locale=en" alt="jeeva1227" /></p>
